@@ -44,3 +44,8 @@ Before running the test suite, you'll need to add the required libraries to your
 The tests can be run as follows:
 
     $ python setup.py test
+    
+## Requirements
+
+* Python 2.7+
+* Requests
